@@ -6,7 +6,6 @@
 ![Snake animation](https://github.com/vitorschapieski/vitorschapieski/blob/output/github-contribution-grid-snake.svg)
 
 
-<img src="https://giphy.com/embed/26tn33aiTi1jkl6H6" alt=":D" width="480" height="270">
 
 
 

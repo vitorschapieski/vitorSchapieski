@@ -3,3 +3,4 @@
 
 ##
 
+![Snake animation](https://github.com/vitorschapieski/vitorschapieski/blob/github-contribution-grid-snake.svg)

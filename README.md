@@ -5,6 +5,8 @@
 Learning:
 html5 | css3 | Javascript | NodeJs | Express Framework | ejs templete engine | React | MVC | mySQL
 
+ “Seeing a need, answer it!” Rodney Lataria
+ 
 ![Snake animation](https://github.com/vitorschapieski/vitorschapieski/blob/output/github-contribution-grid-snake.svg)
 
 

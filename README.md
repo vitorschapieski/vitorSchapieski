@@ -5,6 +5,14 @@
 Learning:<br>
 html5 | css3 | Javascript | NodeJs | Express Framework | ejs templete engine | React | MVC | mySQL
 
+Self-taught:
+Photoshop cs6 | cc
+Figma
+
+##
+
+Content Creator in Secondlife Metaverse
+
  “Seeing a need, answer it!” Rodney Lataria
  
  ##

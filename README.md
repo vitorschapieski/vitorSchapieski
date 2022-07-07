@@ -5,7 +5,7 @@
 Learning:<br>
 html5 | css3 | Javascript | NodeJs | Express Framework | ejs templete engine | React | MVC | mySQL
 
-Self-taught:
+Self-taught: <br>
 Photoshop cs6 | cc
 Figma
 

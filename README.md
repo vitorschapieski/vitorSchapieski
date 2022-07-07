@@ -15,7 +15,7 @@ Content Creator in Secondlife Metaverse
 
 ##
  
-Inspirations:<br>
+Inspirations: <br>
 Jesus Christ | Ada Lovelace | Alan Turing | Bill Gates | Joseph Marie Jacquard | Steve Jobs (Maybe)
 
 

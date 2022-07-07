@@ -17,6 +17,13 @@ Content Creator in Secondlife Metaverse
  
  ##
  
+ 
+Inspirations:<br>
+Jesus Christ | Ada Lovelace | Alan Turing | Bill Gates | Joseph Marie Jacquard | Steve Jobs (Maybe)
+
+
+
+ 
 ![Snake animation](https://github.com/vitorschapieski/vitorschapieski/blob/output/github-contribution-grid-snake.svg)
 
 

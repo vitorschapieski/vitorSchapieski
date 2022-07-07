@@ -10,7 +10,7 @@ Photoshop cs6 | cc <br>
 Figma
 
 ##
-Content Creator in Secondlife Metaverse
+Content Creator in <a href="https://secondlife.com/">Secondlife Metaverse<a>
 ##
  
 :+1: Inspirations: <br>

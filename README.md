@@ -13,13 +13,13 @@ Figma
 
 Content Creator in Secondlife Metaverse
 
- “Seeing a need, answer it!” Rodney Lataria
- 
- ##
- 
+##
  
 Inspirations:<br>
 Jesus Christ | Ada Lovelace | Alan Turing | Bill Gates | Joseph Marie Jacquard | Steve Jobs (Maybe)
+
+
+“Seeing a need, answer it!” Rodney Lataria
 
 
 

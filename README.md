@@ -3,7 +3,8 @@
 
 ##
 :exclamation: Learning:<br>
-html5 | css3 | Javascript | NodeJs | Express Framework | ejs templete engine | React | MVC | mySQL
+Fullstack
+html5 | css3 | Javascript | NodeJs | Express Framework | ejs templete engine | React | mySQL
 
 :muscle: Self-taught: <br>
 Photoshop cs6 | cc <br>

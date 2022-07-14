@@ -1,5 +1,5 @@
 <h1>Hi :D </h1><br>
-<h3>Eu sou <strong>Vitor</strong>, me siga no <a href="https://www.instagram.com/vitorschapieski/">Insta</a> , <a href="https://www.linkedin.com/in/vitor-schapieski-bbb6951b7/">Linkedin</a> faleu um oi,, ou commit algo aqui mesmo :D </h3>
+<h3>Eu sou <strong>Vitor</strong>, me siga no <a href="https://www.instagram.com/vitorschapieski/">Insta</a> , <a href="https://www.linkedin.com/in/vitor-schapieski-bbb6951b7/">Linkedin</a> faleu um oi, ou commit algo aqui mesmo :D </h3>
 
 ##
 :exclamation: Aprendendo:<br>

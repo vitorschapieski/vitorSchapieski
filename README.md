@@ -15,7 +15,7 @@ Criador de conteudo no <a href="https://secondlife.com/">Metaverso Secondlife<a>
 ##
  
 :+1: Inspiraçoes: <br>
-Jesus Christ | Ada Lovelace | Alan Turing | Bill Gates | Joseph Marie Jacquard | Steve Jobs (Maybe)
+Jesus Christ | Eudete Martins(My MOM) | Ada Lovelace | Alan Turing | Bill Gates | Joseph Marie Jacquard | Steve Jobs (Maybe)
 
 
 “Viu a nescessidade, atenda!” Grande Soldador

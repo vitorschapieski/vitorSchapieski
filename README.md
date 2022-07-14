@@ -6,7 +6,7 @@
 Fullstack
 html5 | css3 | Sass | Javascript | NodeJs | Express Framework | ejs | handlebars | React | mySQL
 
-:muscle: Self-taught: <br>
+:muscle: Autodidata: <br>
 Photoshop cs6 | cc <br>
 Figma
 

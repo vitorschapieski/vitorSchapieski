@@ -3,8 +3,11 @@
 
 ##
 :exclamation: Aprendendo:<br>
-Fullstack
+Fullstack<br>
 html5 | css3 | Sass | Javascript | NodeJs | Express Framework | ejs | handlebars | React | mySQL
+##
+:exclamation: Dominado:<br>
+html5 | css3 |
 
 :muscle: Autodidata: <br>
 Photoshop cs6 | cc <br>

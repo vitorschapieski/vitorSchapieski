@@ -4,7 +4,7 @@
 ##
 :exclamation: Aprendendo:<br>
 Fullstack<br>
-html5 | css3 | Sass | Javascript | NodeJs | Express Framework | ejs | handlebars | React | mySQL
+html5 | css3 | Sass | Javascript | NodeJs | React | Express Framework | ejs | handlebars | Python | mySQL
 ##
 :exclamation: Dominado:<br>
 html5 | css3 |

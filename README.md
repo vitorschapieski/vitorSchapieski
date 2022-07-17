@@ -7,7 +7,7 @@ Fullstack<br>
 html5 | css3 | Sass | Javascript | NodeJs | React | Express Framework | ejs | handlebars | Python | mySQL
 ##
 :exclamation: Dominado:<br>
-html5 | css3 |
+html5 | css3 | Javascript
 
 :muscle: Autodidata: <br>
 Photoshop cs6 | cc <br>
